@@ -11,5 +11,4 @@ Vamos a consaensuar como se hace un panque.
 Alejandro
 Roberto
 Alberto
-Emmanuel
-
+Cristobal
