@@ -6,3 +6,10 @@ Este repositorio es para introducirnos a git/github
 
 Vamos a consaensuar como se hace un panque.
 
+#Participantes
+
+Alejandro
+Roberto
+Alberto
+Emmanuel
+
