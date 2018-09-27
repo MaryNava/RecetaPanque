@@ -1,15 +1,8 @@
 
 #Se esta generando nuevo para la colisssion
 
-
-
-
-
-
-
-
-
-
+Se complementa
+para la colision
 
 #Objetivo
 
@@ -28,3 +21,5 @@ Emmanuel
 
 Se agrega a leo y pedro
  # Generando colisison
+
+
