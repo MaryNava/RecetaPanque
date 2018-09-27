@@ -1,8 +1,5 @@
 
-#Se esta generando nuevo para la colisssion
 
-Se complementa
-para la colision
 
 #Objetivo
 
