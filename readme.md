@@ -1,3 +1,16 @@
+
+#Se esta generando nuevo para la colisssion
+
+
+
+
+
+
+
+
+
+
+
 #Objetivo
 
 Este repositorio es para introducirnos a git/github
