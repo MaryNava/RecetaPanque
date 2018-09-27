@@ -12,3 +12,8 @@ Alejandro
 Roberto
 Alberto
 Cristobal
+
+Se Agregan mas participantes a la receta.
+Mary
+Leo
+Pedro
