@@ -1,7 +1,6 @@
+# esta generando nuevo para la colisssion
 
-#Se esta generando nuevo para la colisssion
-
-
+#se esta generando una colisison unica
 
 
 
