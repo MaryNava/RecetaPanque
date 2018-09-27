@@ -17,3 +17,5 @@ Se Agregan mas participantes a la receta.
 Mary
 Leo
 Pedro
+
+Para realizar una colision
